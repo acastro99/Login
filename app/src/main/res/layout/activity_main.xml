@@ -20,10 +20,10 @@
 
             <ImageView
                 android:id="@+id/imageView"
-                android:layout_width="151dp"
-                android:layout_height="113dp"
+                android:layout_width="350dp"
+                android:layout_height="300dp"
                 android:layout_marginBottom="40dp"
-                app:srcCompat="@drawable/developeru" />
+                app:srcCompat="@drawable/login" />
 
             <EditText
                 android:id="@+id/edtUsuario"
